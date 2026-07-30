@@ -2,6 +2,10 @@
 
 ![Urban Growth Detection](images/Urban_Growth_Detection_Virudhachalam.png)
 
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-GIS-green?style=for-the-badge)
+
 ## Overview
 
 Urban growth is a key indicator...
