@@ -2,8 +2,12 @@
 
 ![Flood Risk Map](04_Final_Output/Flood_Risk_Map.png)
 
-> A GIS-based flood susceptibility analysis of South India using QGIS to identify areas with low, medium, and high flood risk through terrain and hydrological analysis.
----
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-blue?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-Geospatial-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+> A GIS-based flood susceptibility analysis of South India using QGIS to identify low, medium, and high flood risk zones through terrain and hydrological analysis.---
 
 ## 📖 Project Overview
 
