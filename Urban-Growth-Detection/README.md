@@ -1,10 +1,10 @@
-\# 🛰️ Urban Growth Detection Using Google Earth Engine
+# 🛰️ Urban Growth Detection Using Google Earth Engine
 
+![Urban Growth Detection](images/Urban_Growth_Detection_Virudhachalam.png)
 
+## Overview
 
-!\[Urban Growth Detection](images/Urban\_Growth\_Detection\_Virudhachalam.png)
-
-
+Urban growth is a key indicator...
 
 \## Overview
 
