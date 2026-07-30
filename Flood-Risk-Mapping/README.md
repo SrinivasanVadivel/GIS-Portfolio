@@ -1,6 +1,6 @@
 # 🌊 Flood Risk Susceptibility Analysis – South India
 
-![Flood Risk Map](04_Final_Output/Flood_Risk_Map.png)
+![Flood Risk Map](04_Final_Output/Flood_Risk_Map.png.png)
 
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-blue?style=for-the-badge)
